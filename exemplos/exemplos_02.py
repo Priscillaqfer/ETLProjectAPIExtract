@@ -7,7 +7,7 @@ url = 'https://api.openai.com/v1/chat/completions'
 
 headers = {
     'Content-Type': 'application/json',
-    'Authorization'***********'
+    'Authorization':'***********'
 }
 data = {
     'model': 'gpt-3.5-turbo',
